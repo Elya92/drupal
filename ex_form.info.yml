@@ -1,0 +1,4 @@
+name: 'Ex Form'
+description: 'Create form'
+core: 8.x
+type: module
